@@ -66,9 +66,7 @@ Para inciar el proyecto para pruebas
 uvicorn main:app --reload
 ```
 
-<h1 align="center">Documentacion</h1>
-
-## ✅ Docuemntación
+## ✅ Documentación
 
 - [QuestionAPI](http://localhost:8000/docs/) 
 

@@ -1,5 +1,28 @@
-# Proyecto Lab — Índice de proyectos
+# Proyectos Testing Lab — Índice
 
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://pydantic-docs.helpmanual.io/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/110818415?s=48&v=4" alt="pydantic" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://uvicorn.dev/" target="_blank" rel="noreferrer">
+    <img src="https://uvicorn.dev/uvicorn.png" alt="uvicorn" width="40" height="40"/>
+  </a>
+</p>
 
 Listado breve de las aplicaciones y su stack principal.
 

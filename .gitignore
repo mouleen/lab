@@ -54,3 +54,16 @@
 # Local settings
 */*.local
 */database.py
+db.sqlite3 
+*/db.sqlite3 
+*/*/db.sqlite3 
+*/*/*/db.sqlite3 
+__pycache__
+*/*/__pycache__
+*/*/*/__pycache__
+
+node_modules
+*/*/node_modules
+*/*/*/node_modules
+
+*/.oldgit

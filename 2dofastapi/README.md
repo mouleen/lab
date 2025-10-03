@@ -6,6 +6,16 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+  </a>
+</p>
+<p align="left">
+  <a href="https://pydantic-docs.helpmanual.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/pydantic/pydantic/main/docs/img/logo.svg" alt="pydantic" width="40" height="40"/>
+  </a>
+</p>
 
 <h1 align="center">Preparar el entorno</h1>
 
